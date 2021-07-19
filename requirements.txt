@@ -1,0 +1,6 @@
+# The software libraries required to run this code can be installed using:
+PyPDF2           # -------- It will help to the text from the PDF..
+gtts             # -------- used for speech translation
+appJar           # -------- open source Python library for developing GUIs (graphical user interfaces).
+pathlib          # -------- provides various classes representing file system paths with semantics appropriate for different operating systems.
+os               # -------- provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc.
