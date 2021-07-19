@@ -18,3 +18,8 @@ appJar: cross-platform, open source Python library for developing GUIs (graphica
 Pathlib: rovides various classes representing file system paths with semantics appropriate for different operating systems. This module comes under Python's standard utility modules. Path classes in Pathlib module are divided into pure paths and concrete paths.
 
 OS: The OS module plays a important role in the application as it provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc. You first need to import the os module to interact with the underlying operating system.
+
+#### Prerequisite software
+The software libraries required to run this code can be installed using:
+
+pip install -r requirements.txt
